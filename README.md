@@ -11,15 +11,9 @@
 
 ## Screenshots of the application :
 <img width="169" height="340" alt="image" src="https://github.com/junitsurani/BuyZapp/assets/119681370/494f825c-9bc4-4a8a-b01b-815327515292">
-<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/2739bfce-e46b-4461-92c2-73ee5fe49e17">
-
-<img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/95eb5719-bca4-4994-8835-91694063370d">
-<img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/25809f10-82c0-4417-89b0-3661ddeda875">
-<img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/97c31ff4-f396-42d8-bd89-059f93bdeb88">
-<img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/02ae7841-d1bd-44fa-beaa-04b7a4d4eae8">
-
-
-
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/806096a0-6bfe-4f0e-9c73-11ec9dd73416">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/778b5da5-542a-42be-87ab-3cc15a9c0407">
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/2cea50a4-6ad5-4464-adc9-048366a568b5">
 
 ## How does it work?
 We will be using **SceneViewer** by triggering a explicit intent to it. 
