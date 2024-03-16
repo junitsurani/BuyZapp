@@ -10,8 +10,10 @@
 "The proposed solution involves implementing custom AR solutions that cater to diverse customer demographics, offering precise size selection and accessible virtual try-ons. By creating AR-based virtual stores, we aim to provide a comprehensive shopping experience without the need for VR technology. Additionally, we plan to drive customer empowerment through innovative AR features, ensuring a valued and represented shopping experience."
 
 ## Screenshots of the application :
-<img width="169" height="340" alt="image" src="https://drive.google.com/file/d/1CuVJpFCpOOiN1NetdcPUb1agi_6GqkRX/view?usp=sharing">
-<img width="100" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/fe0db7bb-6ebd-4aa4-8180-0356fcaeb3ba">
+![page1](https://github.com/junitsurani/BuyZapp/assets/119681370/586f73d3-9270-4004-9f8c-26261a933799)
+<img width="169" height="340" alt="immg" src="<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/fe0db7bb-6ebd-4aa4-8180-0356fcaeb3ba">
+
+<img width="169" height="340" alt="immg" src="https://github.com/junitsurani/BuyZapp/assets/119681370/fe0db7bb-6ebd-4aa4-8180-0356fcaeb3ba">
 
 <img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/14671851-fe39-4118-9bd1-405fd071d84d">
 <img width="169" height="340" alt="image" src="https://github.com/prasad14070/BuyZapp-AR-Ecommerce-Platform/assets/119681370/95eb5719-bca4-4994-8835-91694063370d">
