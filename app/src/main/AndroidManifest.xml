@@ -17,7 +17,28 @@
             android:name=".MainActivity"
             android:exported="true"/>
         <activity
+            android:name=".MainActivity2"
+            android:exported="true"/>
+        <activity
             android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ItemListAdapter"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ItemList2Adapter"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
