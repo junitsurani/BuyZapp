@@ -61,7 +61,7 @@ After bringing the idea to production, more and more users will be tempted to ch
 ## Use this application : 
 **NOTE**: You need to download google AR Core Service for running our apllication successfully [Link](https://github.com/google-ar/arcore-android-sdk/releases/download/v1.33.0/Google_Play_Services_for_AR_1.33.0.apk),
            
-1. You can download the [APK](https://drive.google.com/file/d/1CvkgnsZGT2CsyK5W3zU7x77Er8i1L9mA/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
+1. You can download the [APK](https://drive.google.com/file/d/15VbIBdIhItg3pyb36zgN08OGyCf_mNFu/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
 
 2. Or you can clone the repository and import in Android Studio to see the code + build the APK.
    
