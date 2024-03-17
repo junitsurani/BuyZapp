@@ -1,6 +1,5 @@
 
 # BuyZapp
-
 "BuyZapp is an AR Ecommerce Application ,Revolutionizing retail with AR innovation, our project aims to foster inclusivity, enhance size selection precision, and provide accessible virtual try-ons. Overcoming geographical shopping constraints, we drive customer-centric innovation through cost-efficient AR solutions, scalable design, and iterative development."
 
 ## Problem Statement:
@@ -54,13 +53,6 @@ After bringing the idea to production, more and more users will be tempted to ch
 2. **Increased Sales**: By providing more accurate size selection and virtual try-ons, the solution can reduce returns and increase customer confidence in making purchases online, ultimately leading to higher sales.
 3. **Cost Efficiency**: Compared to physical stores, AR-based virtual stores offer a more cost-effective way to reach customers in different geographical locations, potentially reducing overhead costs.
 4. **Customer Engagement**: The interactive and personalized nature of AR experiences can significantly enhance customer engagement, leading to stronger brand loyalty and repeat business.
-
-## Use this application : 
-
-1. You can download the [APK](https://drive.google.com/file/d/1wKb2ATg9sc3LR4vI5_vTlVaBnomRkRaC/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
-
-2. Or you can clone the repository and import in Android Studio to see the code + build the APK.
-
 
 ## Future Scope:
 The option for virtual try on/ see in your room can be made available for more and more products by making a separate application for making 3D models by just scanning the object by mobile phone’s camera, which currently requires a professional to make 3D models using heavy graphical softwares. Continuous improvement can be made to the AR technology, making the items even more realistic and improving the overall experience.
