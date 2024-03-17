@@ -38,10 +38,11 @@ Our solution can be instantly be brought to production with the existing shoppin
 ## What is the impact of this solution ?
 The impact of adding this feature will be huge, as we’ve now reduced the gap between our customers and the actual product. More and more people would be eager to try the product and ultimately increase the sales by a very large factor.
 The impact of this solution is significant, as it addresses key challenges in the retail industry and offers several benefits:
- 1. **Inclusivity**By providing personalized experiences for customers of all body types, the solution fosters inclusivity in online shopping, ensuring that everyone feels represented and valued.
- 2. **Precision in Size Selection**The AR technology helps overcome size variance issues, reducing the likelihood of returns and improving customer satisfaction.
- 3. **Accessibility**Implementing AR features for persons with disabilities enhances accessibility, making it easier for everyone to engage in virtual try-ons and shop online.
- 4. **Customer-Centric Innovation**By driving customer empowerment through innovative AR features, the solution creates a more engaging and personalized shopping experience, strengthening the brand-consumer relationship.
+ 1. **Inclusivity**: By providing personalized experiences for customers of all body types, the solution fosters inclusivity in online shopping, ensuring that everyone feels represented and valued.
+ 2. **Precision in Size Selection**: The AR technology helps overcome size variance issues, reducing the likelihood of returns and improving customer satisfaction.
+ 3. **Accessibility**: Implementing AR features for persons with disabilities enhances accessibility, making it easier for everyone to engage in virtual try-ons and shop online.
+ 4. **Customer-Centric Innovation**: By driving customer empowerment through innovative AR features, the solution creates a more engaging and personalized shopping experience, strengthening the brand-consumer 
+    relationship.
 
  
 ## Is the solution scalable ?
