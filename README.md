@@ -60,7 +60,7 @@ After bringing the idea to production, more and more users will be tempted to ch
 
 ## Use this application : 
 
-1. You can download the [APK](https://drive.google.com/file/d/1wKb2ATg9sc3LR4vI5_vTlVaBnomRkRaC/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
+1. You can download the [APK](https://drive.google.com/file/d/1CvkgnsZGT2CsyK5W3zU7x77Er8i1L9mA/view?usp=sharing), and then install it (you might have to enable installation from unknown sources).
 
 2. Or you can clone the repository and import in Android Studio to see the code + build the APK.
    
