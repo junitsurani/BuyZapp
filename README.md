@@ -9,7 +9,7 @@
 "The proposed solution involves implementing custom AR solutions that cater to diverse customer demographics, offering precise size selection and accessible virtual try-ons. By creating AR-based virtual stores, we aim to provide a comprehensive shopping experience without the need for VR technology. Additionally, we plan to drive customer empowerment through innovative AR features, ensuring a valued and represented shopping experience."
 1. You can view the [PPT](https://drive.google.com/file/d/1BmJgRHUX3O8MPn1kMDT4nrQYnNqbXnTC/view?usp=drive_link), 
 
-2. You can view Demo Video [video](https://youtu.be/4humfGFyCUw?si=a186GNznKh5F7lX8)
+2. You can view [Demo video](https://youtu.be/4humfGFyCUw?si=a186GNznKh5F7lX8)
 
 ## Screenshots of the application :
 <img width="169" height="340" alt="image" src="https://github.com/junitsurani/BuyZapp/assets/119681370/494f825c-9bc4-4a8a-b01b-815327515292">
